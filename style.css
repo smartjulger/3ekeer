@@ -136,3 +136,17 @@ footer{
     background-color: orange;
     border-radius: 2em;
 }
+.column {
+    float: left;
+    width: 30%;
+    padding: 20px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .column:hover{
+    background-color: black;
+  }
