@@ -150,3 +150,6 @@ footer{
   .column:hover{
     background-color: black;
   }
+  h2{
+    text-align: center;
+  }
