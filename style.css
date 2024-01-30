@@ -82,6 +82,7 @@ h3 {
 .vind:hover {
     border-style: inset;
     border-color: blue;
+    transform: scale(2);
 }
 
 .sub2 {
