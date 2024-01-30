@@ -174,3 +174,8 @@ img:nth-child(n):hover {
     transform: scale(1.05);
     transition: all 250ms;
 }
+
+footer{
+    float: left;
+    margin-top: 30%;
+}
