@@ -141,7 +141,6 @@ h3 {
     width: 50%;
     height: 5%;
     display: block;
-    margin: auto;
 }
 
 .column {
@@ -158,4 +157,13 @@ h3 {
 
 .column:hover {
     background-color: black;
+}
+
+.regels{
+    float: left;
+    width: 30%;
+    line-height: 2em;
+}
+h4{
+    text-align: center;
 }
