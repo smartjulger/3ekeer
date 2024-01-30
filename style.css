@@ -50,7 +50,6 @@ h2 {
     border-style: inset;
     padding: 1em;
     background-color: orange;
-
 }
 
 h3 {
@@ -64,8 +63,6 @@ h3 {
     border-style: inset;
     margin-left: 1em;
     background-color: orange;
-
-
 }
 
 .vind {
@@ -76,7 +73,6 @@ h3 {
     width: 20%;
     height: 10%;
     border-color: red;
-
 }
 
 .vind:hover {
@@ -97,7 +93,6 @@ h3 {
 
 .rugbynl {
     display: flex;
-
 }
 
 .nl {
@@ -105,32 +100,9 @@ h3 {
     display: flex;
     margin: auto;
     margin-left: 35%;
-
-
 }
 
-.pics {
-    width: 150%;
-    height: 150%;
-    flex: auto;
-}
-
-.pics-1 {
-    width: 5%;
-    height: 5%;
-    flex: auto;
-}
-
-
-
-.club {
-    background-color: orange;
-    text-align: center;
-    margin-left: 50%;
-
-}
-
-.regels{
+.regels {
     float: left;
     width: 30%;
     line-height: 2em;
@@ -138,25 +110,26 @@ h3 {
 }
 
 
-h4{
+h4 {
     text-align: center;
 }
 
-img:nth-child(3){
+img:nth-child(3) {
     width: 12%;
     float: left;
     margin: auto;
     margin-left: 7%;
 }
 
-img:nth-child(5){
+img:nth-child(5) {
     width: 12%;
     float: left;
     margin: auto;
     margin-left: 7%;
 
 }
-img:nth-child(6){
+
+img:nth-child(6) {
     width: 12%;
     float: left;
     margin: auto;
@@ -165,7 +138,7 @@ img:nth-child(6){
 
 }
 
-img:nth-child(7){
+img:nth-child(7) {
     width: 12%;
     float: left;
     margin: auto;
@@ -174,22 +147,22 @@ img:nth-child(7){
 
 }
 
-p:nth-child(2){
-    width: 20em;  
+p:nth-child(2) {
+    width: 20em;
     margin: auto;
 }
 
-.haarlem{
+.haarlem {
     width: 12%;
     float: left;
     margin-left: 7%;
 }
 
-h2:nth-child(1){
+h2:nth-child(1) {
     text-align: center;
 }
 
-img:nth-child(n){
+img:nth-child(n) {
     width: 17%;
     height: 17%;
     display: inline;
@@ -197,7 +170,7 @@ img:nth-child(n){
     padding-bottom: 2%;
 }
 
-img:nth-child(n):hover{
+img:nth-child(n):hover {
     transform: scale(1.05);
     transition: all 250ms;
 }
