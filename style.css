@@ -176,6 +176,6 @@ img:nth-child(n):hover {
 }
 
 footer{
-    float: left;
+    float: right;
     margin-top: 30%;
 }
